@@ -17,7 +17,7 @@
 ## 💻 Bahasa Pemrograman
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,php,cs,js" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 🧰 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,unity" />
   <img src="https://github.com/user-attachments/assets/91bbf37a-a623-4a13-bfba-722b40ead0f4" height="48"/>
   <img src="https://github.com/user-attachments/assets/3c40f6dc-3463-4dfc-b332-3f612504ef46" height="48"/>
 </p>
