@@ -1,40 +1,58 @@
 # 👋 Halo, saya Ali Ridwan
 
 🎓 Mahasiswa Teknik Informatika  
-💻 Fokus: Web Development | AI | Data  
-🚀 Sedang belajar QA System & Python
+📍 Indonesia  
+💻 Sedang fokus belajar Image Processing & Computer Vision
 
 ---
 
-## 📊 Dashboard Project
+## 🚀 Tentang Saya
 
-Proyek ini adalah dashboard interaktif yang menampilkan:
+Saya tertarik pada bidang:
 
-- Visualisasi data
-- Analisis teks
-- Sistem QA sederhana
-- NLP preprocessing
+- Image Processing
+- Computer Vision
+- Python Programming
+- Artificial Intelligence
+- Web Development
 
-Teknologi yang digunakan:
+Saat ini sedang mendalami pengolahan citra digital menggunakan Python & OpenCV.
+
+---
+
+## 🛠️ Teknologi yang Dipelajari
 
 - Python
-- Streamlit / Flask
-- NLTK
-- Pandas
+- OpenCV
+- NumPy
 - Matplotlib
+- Streamlit
+- Git & GitHub
 
 ---
 
-## 🖥️ Preview
+## 📊 Progress Belajar
 
-![Dashboard Screenshot](link_gambar_disini)
+- [x] Dasar Python
+- [x] Manipulasi array (NumPy)
+- [x] Operasi citra dasar
+- [ ] Edge detection
+- [ ] Object detection
+- [ ] Deep learning vision
 
 ---
 
-## ⚙️ Cara Menjalankan
+## 📈 GitHub Stats
 
-```bash
-git clone https://github.com/username/project.git
-cd project
-pip install -r requirements.txt
-streamlit run app.py
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+---
+
+## 📫 Kontak
+
+GitHub: https://github.com/USERNAME  
+Email: emailkamu@example.com
+
+---
+
+⭐ Terima kasih sudah berkunjung!
