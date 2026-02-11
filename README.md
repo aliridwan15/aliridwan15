@@ -6,7 +6,7 @@
 
 ---
 
-## 🖥️ Perangkat yang Digunakan
+## 🖥️ Operasi Sistem yang pernah Digunakan
 
 <p>
   <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
