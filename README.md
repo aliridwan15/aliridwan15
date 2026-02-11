@@ -34,7 +34,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,flask" />
-  <img src="https://img.shields.io/badge/CodeIgniter%204-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+  <img src="https://github.com/user-attachments/assets/d24cc8e8-12e2-429a-862c-41d9b675a502" height="48"/>
 </p>
 
 ---
@@ -43,8 +43,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode" />
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://github.com/user-attachments/assets/91bbf37a-a623-4a13-bfba-722b40ead0f4" height="48"/>
+  <img src="https://github.com/user-attachments/assets/3c40f6dc-3463-4dfc-b332-3f612504ef46" height="48"/>
 </p>
 
 ---
