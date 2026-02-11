@@ -79,7 +79,8 @@ Website sistem antrian rumah sakit berbasis Laravel
 
 ## 📊 GitHub Stats
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliridwan15&show_icons=true&theme=tokyonight)
+![Ali's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aliridwan15&show_icons=true&theme=tokyonight)
+
 
 ---
 
