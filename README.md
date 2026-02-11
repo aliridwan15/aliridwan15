@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Halo, saya Ali Ridwan
 
-<!--
-**aliridwan15/aliridwan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa Teknik Informatika  
+💻 Fokus: Web Development | AI | Data  
+🚀 Sedang belajar QA System & Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Dashboard Project
+
+Proyek ini adalah dashboard interaktif yang menampilkan:
+
+- Visualisasi data
+- Analisis teks
+- Sistem QA sederhana
+- NLP preprocessing
+
+Teknologi yang digunakan:
+
+- Python
+- Streamlit / Flask
+- NLTK
+- Pandas
+- Matplotlib
+
+---
+
+## 🖥️ Preview
+
+![Dashboard Screenshot](link_gambar_disini)
+
+---
+
+## ⚙️ Cara Menjalankan
+
+```bash
+git clone https://github.com/username/project.git
+cd project
+pip install -r requirements.txt
+streamlit run app.py
