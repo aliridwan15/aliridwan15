@@ -10,33 +10,33 @@
 
 <h2 align="center">🧰 Tech Stack</h2>
 
+<p align="center"><b>Operating System</b></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=windows,ubuntu" /><br>
-<b>Operating System</b>
+<img src="https://skillicons.dev/icons?i=windows,ubuntu" />
 </p>
 
+<p align="center"><b>Languages & Frontend</b></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,cs" /><br>
-<b>Languages & Frontend</b>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,cs" />
 </p>
 
+<p align="center"><b>Database</b></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
-<b>Database</b>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
+<p align="center"><b>Framework</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=laravel,flask" />
 <img src="https://github.com/user-attachments/assets/7ba2a7d7-8ff4-4c1d-8343-80f32afa7555" height="45"/>
-<img src="https://github.com/user-attachments/assets/6623b9ca-e114-47b9-9520-355ab2e13129" height="45"/><br>
-<b>Framework</b>
+<img src="https://github.com/user-attachments/assets/6623b9ca-e114-47b9-9520-355ab2e13129" height="45"/>
 </p>
 
+<p align="center"><b>Development Tools</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=github,vscode,unity" />
 <img src="https://github.com/user-attachments/assets/91bbf37a-a623-4a13-bfba-722b40ead0f4" height="45"/>
-<img src="https://github.com/user-attachments/assets/3c40f6dc-3463-4dfc-b332-3f612504ef46" height="45"/><br>
-<b>Development Tools</b>
+<img src="https://github.com/user-attachments/assets/3c40f6dc-3463-4dfc-b332-3f612504ef46" height="45"/>
 </p>
 
 ---
