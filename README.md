@@ -1,86 +1,81 @@
-# 👋 Halo, saya Ali Ridwan
+<h1 align="center">👋 Halo, saya Ali Ridwan</h1>
 
-🎓 Mahasiswa Teknik Informatika  
-💻 Web Developer | Image Processing Learner  
+<p align="center">
+🎓 Mahasiswa Teknik Informatika <br>
+💻 Web Developer | Image Processing Learner <br>
 🎯 Fokus: Fullstack Development & UI/UX
-
----
-
-## 🖥️ Operasi Sistem yang pernah Digunakan
-
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
 </p>
 
 ---
 
-## 💻 Bahasa Pemrograman
+<h2 align="center">🧰 Tech Stack</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,cs,js" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=windows,ubuntu" /><br>
+<b>Operating System</b>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,cs" /><br>
+<b>Languages & Frontend</b>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
+<b>Database</b>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=laravel,flask" />
+<img src="https://github.com/user-attachments/assets/7ba2a7d7-8ff4-4c1d-8343-80f32afa7555" height="45"/>
+<img src="https://github.com/user-attachments/assets/6623b9ca-e114-47b9-9520-355ab2e13129" height="45"/><br>
+<b>Framework</b>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,vscode,unity" />
+<img src="https://github.com/user-attachments/assets/91bbf37a-a623-4a13-bfba-722b40ead0f4" height="45"/>
+<img src="https://github.com/user-attachments/assets/3c40f6dc-3463-4dfc-b332-3f612504ef46" height="45"/><br>
+<b>Development Tools</b>
 </p>
 
 ---
 
-## 🗄️ Sistem Basis Data
+<h2 align="center">🚀 Skill</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<p align="center">
+🌐 Web Development • 🧩 Fullstack Development • 🎮 Game Development <br>
+🗄️ Database Design & Management • 🎨 UI/UX Designer
 </p>
 
 ---
 
-## ⚙️ Framework Web
+<h2 align="center">🏆 Top Projects</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,flask" />
-  <img src="https://github.com/user-attachments/assets/d24cc8e8-12e2-429a-862c-41d9b675a502" height="48" alt="CodeIgniter"/>
-</p>
-
----
-
-## 🧰 Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,unity" />
-  <img src="https://github.com/user-attachments/assets/91bbf37a-a623-4a13-bfba-722b40ead0f4" height="48" alt="Laragon"/>
-  <img src="https://github.com/user-attachments/assets/3c40f6dc-3463-4dfc-b332-3f612504ef46" height="48" alt="Visual Studio"/>
-</p>
-
----
-
-## 🚀 Skill
-
-- 🌐 Web Development
-- 🧩 Fullstack Developer
-- 🎨 UI/UX Designer
-
----
-
-## 🏆 Top Projects
-
-### 1. 🎮 MathKids (Proyek Perangkat Lunak)
+### 🎮 MathKids
 Game edukasi sederhana *Math Cross* menggunakan Unity  
 🔗 https://github.com/aliridwan15/Math-Cross-PPL.git
 
 ---
 
-### 2. 🛒 ElektroShop (Rekayasa Perangkat Lunak)
-Platform E-Commerce penjualan elektronik berbasis PHP Native & MySQL  
+### 🛒 ElektroShop
+Platform E-Commerce berbasis PHP Native & MySQL  
 🔗 https://github.com/aliridwan15/elektroshop-rpl.git
 
 ---
 
-### 3. 🏥 Sistem Antrian RSU (Kerja Praktek)
+### 🏥 Sistem Antrian RSU
 Website sistem antrian rumah sakit berbasis Laravel  
 🔗 https://github.com/aliridwan15/sistem-antrian-rsu.git
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Ali's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aliridwan15&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aliridwan15&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ Terima kasih sudah berkunjung ke profil saya!
+<p align="center">⭐ Terima kasih sudah berkunjung ke profil saya!</p>
